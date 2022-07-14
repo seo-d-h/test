@@ -1,3 +1,8 @@
 print("Basic Car")
 print("test")
-print("hello")
+#print("hello")
+
+def hello():
+    print('hello\n')
+
+hello()
