@@ -8,5 +8,9 @@ def hello():
 def attack():
     print('attack!!\n')
 
+def defend():
+    print('defend!!\n')
+
 hello()
 attack()
+defend()
