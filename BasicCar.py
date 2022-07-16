@@ -4,5 +4,9 @@ print("test")
 
 def hello():
     print('hello\n')
+    
+def defend():
+    print('defend!!\n')
 
 hello()
+defend()
